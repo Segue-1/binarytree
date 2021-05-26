@@ -1,0 +1,8 @@
+TO RUN:
+
+1. Type "make" and hit enter to compile
+2a. Type "./main" and hit enter to build / print tree with keyboard.  Simulate EOF by entering 0.
+2b. Type "./main < test.txt" to build / print tree with input from test.txt using redirection. It is not necessary to simulate EOF.  
+2c. Type "./main test.txt" to build / print tree with input from test.txt. This will make the program read from file. 
+
+3. Type "make clean" to remove executables.  This will also remove all log files.

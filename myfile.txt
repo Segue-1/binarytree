@@ -1,0 +1,30 @@
+---------In order traversal-----------
+         fak 
+             al 
+     emf 
+         neg 
+ fn 
+     ng 
+             sj 
+         vi 
+--------------------------------------
+---------Pre order traversal----------
+ fn 
+     emf 
+         fak 
+             al 
+         neg 
+     ng 
+         vi 
+             sj 
+--------------------------------------
+---------Post order traversal---------
+             al 
+         fak 
+         neg 
+     emf 
+             sj 
+         vi 
+     ng 
+ fn 
+--------------------------------------
